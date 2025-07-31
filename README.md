@@ -45,8 +45,7 @@ git clone https://github.com/MuhammadIbrahimkha/DailyDo.git
 
 3. npm run dev
 
-
-🙌 Author
+## Author
 ## Muhammad Ibrahim
 I'm passionate about building clean, functional, and scalable applications. Looking forward to learning and contributing to impactful projects.
 
