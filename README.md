@@ -25,7 +25,7 @@
 
 ## 📸 Preview
 
-![App Preview]('./src/assets/todoapp.png')
+![App Preview](./src/assets/todoapp.png)
 
 ---
 
